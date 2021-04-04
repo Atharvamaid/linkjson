@@ -1,10 +1,10 @@
 {
     "1" : {
-  Name:"Discord",
-  Link:"#",
+  "Name":"Discord",
+  "Link":"#",
     }, 
     "2" : {
-        Name:"Hello",
-        Link:"#",
+        "Name":"Hello",
+        "Link":"#",
     },
 }
