@@ -1,23 +1,10 @@
 {
     "1" : {
-        "Title" : "Atharva Maid",
-        "subTitle" : "Best frontend developer",
-        "link" : "https://www.instagram.com/atharva.maid"
-    },
+  Name:"Discord",
+  Link:"#",
+    }, 
     "2" : {
-        "Title" : "Atharva Maid",
-        "subTitle" : "Best frontend developer",
-        "link" : "https://www.instagram.com/atharva.maid"
+        Name:"Hello",
+        Link:"#",
     },
-    "3" : {
-        "Title" : "Atharva Maid",
-        "subTitle" : "Best frontend developer",
-        "link" : "https://www.instagram.com/atharva.maid"
-    },
-    "4" : {
-        "Title" : "Atharva Maid",
-        "subTitle" : "Best frontend developer",
-        "link" : "https://www.instagram.com/atharva.maid"
-    }
-
 }
